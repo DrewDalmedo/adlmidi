@@ -1,0 +1,2 @@
+ - add an option to recursively play files in a directory
+ - add a way to properly exit the program (Ctrl-c causes issues with the cursor on terminal emulators)
